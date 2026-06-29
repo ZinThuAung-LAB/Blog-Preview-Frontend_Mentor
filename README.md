@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ZinThuAung-LAB/Blog-Preview-Frontend_Mentor.git](https://github.com/ZinThuAung-LAB/Blog-Preview-Frontend_Mentor.git)
-- Live Site URL: [https://github.com/ZinThuAung-LAB/Blog-Preview-Frontend_Mentor.git](https://github.com/ZinThuAung-LAB/Blog-Preview-Frontend_Mentor.git)
+- Live Site URL: [https://zinthuaung-lab.github.io/Blog-Preview-Frontend_Mentor/](https://zinthuaung-lab.github.io/Blog-Preview-Frontend_Mentor/)
 
 
 ### Built with
